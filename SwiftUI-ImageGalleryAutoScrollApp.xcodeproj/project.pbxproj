@@ -19,6 +19,7 @@
 		EDF4ECB52826879C008FD94D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EDF4ECBA2826879E008FD94D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EDF4ECC128272C81008FD94D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EDF4ECC3282734A7008FD94D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		EDF4ECA72826879B008FD94D = {
 			isa = PBXGroup;
 			children = (
+				EDF4ECC3282734A7008FD94D /* README.md */,
 				EDF4ECB22826879C008FD94D /* SwiftUI-ImageGalleryAutoScrollApp */,
 				EDF4ECB12826879C008FD94D /* Products */,
 			);
